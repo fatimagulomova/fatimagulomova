@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-My name is Fotimakhon, and I'm a passionate individual on a journey of exploring the exciting world of technology. I am currently 19 years old and pursuing a BSc in Applied Artificial Intelligence at IU International University of Applied Science.
+I'm Fotimakhon, a 19-year-old student currently studying at IU International University of Applied Science. I'm pursuing a BSc in Applied Artificial Intelligence, and I've been learning Python for the past two years.
 
-With a keen interest in artificial intelligence, I have dedicated the past two years to mastering Python. Its versatility and extensive libraries have allowed me to delve into various domains, including machine learning, data analysis, and automation.
+Here are some of my skills:
+- I'm proficient in using libraries such as NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK, NetworkX, SciPy, and TensorFlow.
+- I have experience in various aspects of data science, including data collection, processing, analysis, and visualization.
+- I also have knowledge of computer vision.
+
+In terms of languages, here's what I'm comfortable with:
+- English: I have a B2 level of proficiency.
+- Russian: I am bilingual in Russian.
+- Uzbek: This is my native language.
+- German: I have a basic understanding at the A1 level.
 
 On this platform, you'll find a collection of my projects showcasing my growth and skills as I navigate the world of artificial intelligence. I aim to leverage cutting-edge technologies to develop intelligent solutions that positively impact people's lives.
 
