@@ -3,7 +3,7 @@
 I'm Fotimakhon, a 19-year-old student currently studying at IU International University of Applied Science. I'm pursuing a BSc in Applied Artificial Intelligence, and I've been learning Python for the past two years.
 
 Here are some of my skills:
-- I'm proficient in using libraries such as NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK, NetworkX, SciPy, and TensorFlow.
+- I'm proficient in using libraries such as NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK, SciPy, and TensorFlow.
 - I have experience in various aspects of data science, including data collection, processing, analysis, and visualization.
 - I also have knowledge of computer vision.
 
